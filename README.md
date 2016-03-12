@@ -1,0 +1,1 @@
+A quick design and development project built for a local dry cleaning service. Built using exclusively HTML5 and CSS3.
